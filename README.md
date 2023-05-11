@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Welcome to my GitHub profile! My name is Ben, and I am a PowerShell programmer. I specialize in creating scripts and tools to automate processes and make life easier for users. I have been working with PowerShell for several years and have a passion for creating efficient and effective solutions. On my profile, you will find a variety of projects I have worked on, ranging from small scripts to larger applications. I am always looking for new challenges and opportunities to learn and grow. Thank you for taking the time to visit my profile.
+
+### Languages 
+<img src="[https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png](https://th.bing.com/th/id/OIP.1LeaUZsal8Cua70PSDYv1AAAAA?pid=ImgDet&rs=1)" height="90" width="90">
+
+
 ### Certifications ⚡
 <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="90" width="90">
 
