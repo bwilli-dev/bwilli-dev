@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Welcome to my GitHub profile! My name is Ben, and I am a Systems Administrator with a main focus on PowerShell. I specialize in creating scripts and tools to automate processes and make life easier for users. I have been working with PowerShell for several years and have a passion for creating efficient and effective solutions. On my profile, you will find a variety of projects I have worked on, ranging from small scripts to larger applications. I am always looking for new challenges and opportunities to learn and grow. Thank you for taking the time to visit my profile.
 
 ### Languages 
